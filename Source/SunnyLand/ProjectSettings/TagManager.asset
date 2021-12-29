@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - PowerUp
+  - Spike
+  - Platform
+  - Ladder
+  - Death
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Middleground
+  - Ground
+  - 
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2051204705
+    locked: 0
+  - name: Middleground
+    uniqueID: 287508133
+    locked: 0
+  - name: Object
+    uniqueID: 977438017
+    locked: 0
+  - name: Foreground
+    uniqueID: 3846468771
+    locked: 0
+  - name: Collectable
+    uniqueID: 3871893603
+    locked: 0
